@@ -1,0 +1,37 @@
+[33m0c318b1[m HEAD@{0}: checkout: moving from master to master
+[33m0c318b1[m HEAD@{1}: checkout: moving from dev to master
+[33mbbf4fd1[m HEAD@{2}: checkout: moving from master to dev
+[33m0c318b1[m HEAD@{3}: merge issue-101: Merge made by the 'recursive' strategy.
+[33m2b6604b[m HEAD@{4}: checkout: moving from issue-101 to master
+[33m5044e1a[m HEAD@{5}: commit: fix bug 101
+[33m2b6604b[m HEAD@{6}: checkout: moving from master to issue-101
+[33m2b6604b[m HEAD@{7}: checkout: moving from master to master
+[33m2b6604b[m HEAD@{8}: checkout: moving from master to master
+[33m2b6604b[m HEAD@{9}: reset: moving to HEAD
+[33m2b6604b[m HEAD@{10}: merge dev: Merge made by the 'recursive' strategy.
+[33mbcb2427[m HEAD@{11}: checkout: moving from dev to master
+[33mbbf4fd1[m HEAD@{12}: commit: add merge
+[33mbcb2427[m HEAD@{13}: checkout: moving from master to dev
+[33mbcb2427[m HEAD@{14}: commit (merge): conflict fixed
+[33me4e8118[m HEAD@{15}: commit: & simple
+[33m90d82b0[m HEAD@{16}: checkout: moving from feature1 to master
+[33mc40288f[m HEAD@{17}: checkout: moving from master to feature1
+[33m90d82b0[m HEAD@{18}: checkout: moving from feature1 to master
+[33mc40288f[m HEAD@{19}: commit: AND simple
+[33m90d82b0[m HEAD@{20}: checkout: moving from master to feature1
+[33m90d82b0[m HEAD@{21}: merge dev: Fast-forward
+[33m9f09abd[m HEAD@{22}: checkout: moving from dev to master
+[33m90d82b0[m HEAD@{23}: checkout: moving from master to dev
+[33m9f09abd[m HEAD@{24}: checkout: moving from dev to master
+[33m90d82b0[m HEAD@{25}: commit: branch test
+[33m9f09abd[m HEAD@{26}: checkout: moving from master to dev
+[33m9f09abd[m HEAD@{27}: commit: change
+[33mbaf40ab[m HEAD@{28}: commit: add test.txt
+[33m1bef6e8[m HEAD@{29}: commit: git tracks changes
+[33md0b6942[m HEAD@{30}: commit: git tracks changes
+[33md71e3d1[m HEAD@{31}: commit: understand how stage works
+[33m0965143[m HEAD@{32}: reset: moving to 096514304246534c58a3afce901d33e70732858c
+[33me59975f[m HEAD@{33}: reset: moving to HEAD^
+[33m0965143[m HEAD@{34}: commit: appendGPL
+[33me59975f[m HEAD@{35}: commit: add distributed
+[33mdc66ca7[m HEAD@{36}: commit (initial): wrote a readme file
